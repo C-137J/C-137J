@@ -9,15 +9,15 @@ Estudiante de **Ingeniería Mecatrónica en la PUCP** (Lima, Perú). Diseño PCB
 <table>
   <tr>
     <td width="33%" valign="top" align="center">
-      <a href="https://github.com/C-137J/portfolio/blob/main/proyectos/jnox-watch-v4.md"><img src="https://raw.githubusercontent.com/C-137J/portfolio/main/assets/img/v4-pcb-frente.jpg" alt="JNOX Watch V4"></a><br>
+      <a href="https://github.com/C-137J/portfolio/blob/main/proyectos/jnox-watch-v4.md"><img src="https://raw.githubusercontent.com/C-137J/portfolio/main/assets/img/v4-pcb-frente.jpg" alt="JNOX Watch V4" height="240"></a><br>
       <b>JNOX Watch V4</b><br><sub>PCB de 4 capas · AMOLED táctil · carcasa sellada en PA12</sub>
     </td>
     <td width="33%" valign="top" align="center">
-      <a href="https://github.com/C-137J/portfolio/blob/main/proyectos/jnox-watch-v3.md"><img src="https://raw.githubusercontent.com/C-137J/portfolio/main/assets/img/v3-muneca.jpg" alt="JNOX Watch V3"></a><br>
+      <a href="https://github.com/C-137J/portfolio/blob/main/proyectos/jnox-watch-v3.md"><img src="https://raw.githubusercontent.com/C-137J/portfolio/main/assets/img/v3-muneca.jpg" alt="JNOX Watch V3" height="240"></a><br>
       <b>JNOX Watch V3</b><br><sub>PCB de 2 capas · GPS · asistente de voz · 1 unidad vendida</sub>
     </td>
     <td width="33%" valign="top" align="center">
-      <a href="https://github.com/C-137J/portfolio/blob/main/proyectos/jnox-sci-v0.md"><img src="https://raw.githubusercontent.com/C-137J/portfolio/main/assets/img/sci-v0-frontal.jpg" alt="JNOX SCI v0"></a><br>
+      <a href="https://github.com/C-137J/portfolio/blob/main/proyectos/jnox-sci-v0.md"><img src="https://raw.githubusercontent.com/C-137J/portfolio/main/assets/img/sci-v0-frontal.jpg" alt="JNOX SCI v0" height="240"></a><br>
       <b>JNOX SCI v0</b><br><sub>Calculadora gráfica programable · carcasa en PLA</sub>
     </td>
   </tr>
