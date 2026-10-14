@@ -28,7 +28,7 @@ Estudiante de **Ingeniería Mecatrónica en la PUCP** (Lima, Perú). Diseño PCB
 - **PCB**: esquemático y layout en EasyEDA Pro, 2 y 4 capas, alimentación y carga, interfaces I2C, SPI, UART, I2S y QSPI, fabricación en JLCPCB y soldadura SMD propia.
 - **Carcasas 3D**: diseño en Autodesk Inventor para nylon PA12, resina SLA y PLA; sellado, holguras y planos de fabricación.
 - **Firmware**: C++ sobre ESP32-S3 con LVGL, BLE, Wi-Fi y ESP-NOW.
-- **Transparencia**: el diseño de las PCB y de las carcasas es mío; el código de las apps y parte del firmware lo desarrollé con ayuda de herramientas de IA.
+- **Transparencia**: el diseño de las PCB y de las carcasas es mío; el firmware de mis dispositivos y el código de las apps los programé con ayuda de herramientas de IA, lo que me permitió avanzar más rápido.
 
 ## Enlaces
 
